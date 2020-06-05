@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "46zlf7s4lBTPahW1UbSs/4jutzrwlccVk3b9j1TTPMfIoSom3PTB/LjXNbHtp3Fn7dzOxnewNgdQcn0YxUtwgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hocbu\\source\\repos\\TapVirtualXBox\\TapVirtualXBox\\TapVirtualXBox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hocbu\\.nuget\\packages\\jetbrains.annotations\\2018.3.0\\jetbrains.annotations.2018.3.0.nupkg.sha512",
+    "C:\\Users\\hocbu\\.nuget\\packages\\nefarius.vigem.client\\1.16.150\\nefarius.vigem.client.1.16.150.nupkg.sha512"
+  ],
+  "logs": []
+}

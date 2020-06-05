@@ -1,0 +1,191 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "JetBrains.Annotations/2018.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net20/JetBrains.Annotations.dll": {}
+        },
+        "runtime": {
+          "lib/net20/JetBrains.Annotations.dll": {}
+        }
+      },
+      "Nefarius.ViGEm.Client/1.16.150": {
+        "type": "package",
+        "dependencies": {
+          "JetBrains.Annotations": "2018.3.0"
+        },
+        "compile": {
+          "lib/net452/Nefarius.ViGEm.Client.dll": {}
+        },
+        "runtime": {
+          "lib/net452/Nefarius.ViGEm.Client.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "JetBrains.Annotations/2018.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net20/JetBrains.Annotations.dll": {}
+        },
+        "runtime": {
+          "lib/net20/JetBrains.Annotations.dll": {}
+        }
+      },
+      "Nefarius.ViGEm.Client/1.16.150": {
+        "type": "package",
+        "dependencies": {
+          "JetBrains.Annotations": "2018.3.0"
+        },
+        "compile": {
+          "lib/net452/Nefarius.ViGEm.Client.dll": {}
+        },
+        "runtime": {
+          "lib/net452/Nefarius.ViGEm.Client.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "JetBrains.Annotations/2018.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net20/JetBrains.Annotations.dll": {}
+        },
+        "runtime": {
+          "lib/net20/JetBrains.Annotations.dll": {}
+        }
+      },
+      "Nefarius.ViGEm.Client/1.16.150": {
+        "type": "package",
+        "dependencies": {
+          "JetBrains.Annotations": "2018.3.0"
+        },
+        "compile": {
+          "lib/net452/Nefarius.ViGEm.Client.dll": {}
+        },
+        "runtime": {
+          "lib/net452/Nefarius.ViGEm.Client.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "JetBrains.Annotations/2018.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net20/JetBrains.Annotations.dll": {}
+        },
+        "runtime": {
+          "lib/net20/JetBrains.Annotations.dll": {}
+        }
+      },
+      "Nefarius.ViGEm.Client/1.16.150": {
+        "type": "package",
+        "dependencies": {
+          "JetBrains.Annotations": "2018.3.0"
+        },
+        "compile": {
+          "lib/net452/Nefarius.ViGEm.Client.dll": {}
+        },
+        "runtime": {
+          "lib/net452/Nefarius.ViGEm.Client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JetBrains.Annotations/2018.3.0": {
+      "sha512": "Hbt5edAd7OfnYwsRayYguECzIJ4FUWDGjeEHsmxIgEpBbqZglhpxqjPWnWN/pEQM1HFGojMrR9dsywmC8pPTeQ==",
+      "type": "package",
+      "path": "jetbrains.annotations/2018.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "jetbrains.annotations.2018.3.0.nupkg.sha512",
+        "jetbrains.annotations.nuspec",
+        "lib/net20/JetBrains.Annotations.dll",
+        "lib/net20/JetBrains.Annotations.xml",
+        "lib/netstandard1.0/JetBrains.Annotations.deps.json",
+        "lib/netstandard1.0/JetBrains.Annotations.dll",
+        "lib/netstandard1.0/JetBrains.Annotations.xml",
+        "lib/netstandard2.0/JetBrains.Annotations.deps.json",
+        "lib/netstandard2.0/JetBrains.Annotations.dll",
+        "lib/netstandard2.0/JetBrains.Annotations.xml",
+        "lib/portable40-net40+sl5+win8+wp8+wpa81/JetBrains.Annotations.dll",
+        "lib/portable40-net40+sl5+win8+wp8+wpa81/JetBrains.Annotations.xml"
+      ]
+    },
+    "Nefarius.ViGEm.Client/1.16.150": {
+      "sha512": "Wj+MbaIa5F2yjoCUIPVA8PQX95dv7NIxytlXJbwanwjm3DruM2z30UJ6uhQm6Xnm3IPUs88f2L1HqvL8ZK6Ifw==",
+      "type": "package",
+      "path": "nefarius.vigem.client/1.16.150",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ViGEm_Icon.png",
+        "lib/net452/Nefarius.ViGEm.Client.dll",
+        "lib/netcoreapp2.2/Nefarius.ViGEm.Client.dll",
+        "nefarius.vigem.client.1.16.150.nupkg.sha512",
+        "nefarius.vigem.client.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Nefarius.ViGEm.Client >= 1.16.150"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hocbu\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hocbu\\source\\repos\\TapVirtualXBox\\TapVirtualXBox\\TapVirtualXBox.csproj",
+      "projectName": "TapVirtualXBox",
+      "projectPath": "C:\\Users\\hocbu\\source\\repos\\TapVirtualXBox\\TapVirtualXBox\\TapVirtualXBox.csproj",
+      "packagesPath": "C:\\Users\\hocbu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hocbu\\source\\repos\\TapVirtualXBox\\TapVirtualXBox\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\hocbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "Nefarius.ViGEm.Client": {
+            "target": "Package",
+            "version": "[1.16.150, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

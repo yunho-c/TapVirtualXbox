@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hocbu\\source\\repos\\TapVirtualXBox\\TapVirtualXBox\\TapVirtualXBox.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hocbu\\source\\repos\\TapVirtualXBox\\TapVirtualXBox\\TapVirtualXBox.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hocbu\\source\\repos\\TapVirtualXBox\\TapVirtualXBox\\TapVirtualXBox.csproj",
+        "projectName": "TapVirtualXBox",
+        "projectPath": "C:\\Users\\hocbu\\source\\repos\\TapVirtualXBox\\TapVirtualXBox\\TapVirtualXBox.csproj",
+        "packagesPath": "C:\\Users\\hocbu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hocbu\\source\\repos\\TapVirtualXBox\\TapVirtualXBox\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\hocbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Nefarius.ViGEm.Client": {
+              "target": "Package",
+              "version": "[1.16.150, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
