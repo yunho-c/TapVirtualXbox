@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapVirtualXBox", "TapVirtualXBox\TapVirtualXBox.csproj", "{C3ED9CF7-A766-4807-9A98-3699E262501D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3ED9CF7-A766-4807-9A98-3699E262501D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3ED9CF7-A766-4807-9A98-3699E262501D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3ED9CF7-A766-4807-9A98-3699E262501D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3ED9CF7-A766-4807-9A98-3699E262501D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFA4F6BE-C3E5-42AE-8102-B510DCB33ED5}
+	EndGlobalSection
+EndGlobal
